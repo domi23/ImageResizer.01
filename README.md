@@ -1,6 +1,6 @@
 # Image Resizer
 
-![Logo](logo.png)
+<img src="logo.png" alt="Logo" width="30" height="30" style="display:inline-block; vertical-align:middle;" /> **Image Resizer**
 
 **Image Resizer** - это простое и удобное приложение для изменения размеров изображений, конвертации их в разные форматы и настройки качества сжатия. Поддерживаются форматы JPEG, PNG, BMP, GIF и TIFF. Программа также позволяет переключаться между английским и русским языками.
 
@@ -36,7 +36,8 @@
 
 ## Языки
 
-![English](usa.png) ![Russian](russia.png)
+<img src="usa.png" alt="English" width="20" height="15" style="display:inline-block; vertical-align:middle;" /> ![English](usa.png) 
+<img src="russia.png" alt="Russian" width="20" height="15" style="display:inline-block; vertical-align:middle;" /> ![Russian](russia.png)
 
 ## Лицензия
 
@@ -53,4 +54,3 @@
 ---
 
 **Image Resizer** - Простой и мощный инструмент для управления изображениями.
-
